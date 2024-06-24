@@ -1,0 +1,21 @@
+title: Lemonade Stand
+hero_image: images/banner.png
+description: Create a lemonade stand simulation game.
+listed: false
+ingredient: true
+copyedit: true
+steps: 
+- title: Introduction
+- title: Add the pipes
+- title: "Challenge: make better pipes"
+  challenge: true
+- title: Make the pipes move
+- title: Make Flappy fall
+- title: Make Flappy fly
+- title: Detect collisions
+- title: Add a score
+- title: 'Challenge: adjust the difficulty'
+  challenge: true
+- title: 'Challenge: add a high score'
+  challenge: true
+- title: What next?
